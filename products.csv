@@ -1,0 +1,21 @@
+product_id,name,category,price,brand
+1,Classic Few,Shoes,70.75,TrendLine
+2,Modern Pass,Shoes,94.02,ModaCore
+3,Classic His,Tops,100.13,TrendLine
+4,Modern Group,Tops,52.43,StylePoint
+5,Urban Others,Accessories,36.39,StylePoint
+6,Urban Enter,Tops,33.6,ModaCore
+7,Classic That,Shoes,141.6,ModaCore
+8,Modern Relate,Shoes,26.84,TrendLine
+9,Classic In,Bottoms,56.41,ModaCore
+10,Urban Party,Tops,134.73,TrendLine
+11,Classic Force,Shoes,62.24,ModaCore
+12,Modern Find,Shoes,112.51,ModaCore
+13,Classic Hard,Shoes,144.53,ModaCore
+14,Urban Somebody,Shoes,133.06,ModaCore
+15,Urban Address,Accessories,76.93,TrendLine
+16,Classic Better,Bottoms,87.38,TrendLine
+17,Urban Country,Tops,124.79,ModaCore
+18,Urban Receive,Bottoms,75.14,ModaCore
+19,Classic Care,Shoes,108.34,TrendLine
+20,Modern Fast,Bottoms,124.4,StylePoint
