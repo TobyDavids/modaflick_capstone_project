@@ -2,7 +2,7 @@
 
 This repo contains the Jupyter notebook for the ModaFlick case study and a local Python package `modaflick_etl` for reusable ETL functions, including optional database creation.
 
-# Project Overview
+## Project Overview
 
 ModaFlick is a growing fashion brand. The goal of this project was to:
 
@@ -16,7 +16,7 @@ ModaFlick is a growing fashion brand. The goal of this project was to:
 
 5. Provide strategic business recommendations.
 
-#Key Insights
+## Key Insights
 
 - Top-selling products contributed the majority of revenue, with a few items dominating sales volume.
 
@@ -28,7 +28,7 @@ ModaFlick is a growing fashion brand. The goal of this project was to:
 
 - Male customers contributed ~2x the revenue of female customers, highlighting an opportunity to increase female customer engagement.
 
-#Recommendations
+## Recommendations
 
 1. Focus marketing campaigns on top-performing products and replicate their success across underperforming items.
 2. Reallocate inventory to avoid low-stock issues for high-demand products.
